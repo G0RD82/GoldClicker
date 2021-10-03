@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2cb6e5d-339c-47c2-9f00-ac5937df2574" name="Default Changelist" comment="Tadik je frajer">
+      <change afterPath="$PROJECT_DIR$/.idea/goldclicker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bagr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cursor1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minecart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nugget.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pickaxe.gif" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yciPWCny4Cts5k2FeLgAiRjj8b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/NetBeansProjects/webGPU" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2cb6e5d-339c-47c2-9f00-ac5937df2574" name="Default Changelist" comment="" />
+      <created>1632557253212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632557253212</updated>
+      <workItem from="1632557254299" duration="6219000" />
+      <workItem from="1632567869469" duration="4467000" />
+      <workItem from="1632591036025" duration="4990000" />
+      <workItem from="1632658479590" duration="2876000" />
+      <workItem from="1632762521048" duration="1115000" />
+      <workItem from="1632766114846" duration="2563000" />
+      <workItem from="1632842219118" duration="6833000" />
+      <workItem from="1633017978589" duration="9251000" />
+      <workItem from="1633109065594" duration="10967000" />
+      <workItem from="1633183421390" duration="4525000" />
+      <workItem from="1633197359328" duration="10386000" />
+      <workItem from="1633264407347" duration="2348000" />
+      <workItem from="1633278219061" duration="1363000" />
+      <workItem from="1633284959977" duration="1570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tadik je frajer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tadik je frajer" />
+  </component>
+</project>
